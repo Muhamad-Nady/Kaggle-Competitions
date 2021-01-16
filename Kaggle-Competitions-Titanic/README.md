@@ -1,1 +1,1 @@
-# Classifaction Model For Titanic Dataset "Kaggle Competition"
+# Predict of Survived and NonsClassurvived People For Titanic Dataset "Kaggle Competition"
