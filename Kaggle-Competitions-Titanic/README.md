@@ -1,1 +1,1 @@
-# Predict of Survived and NonsClassurvived People For Titanic Dataset "Kaggle Competition"
+## Predict of Survived And Not Survived People For Titanic Dataset "Kaggle Competition"
